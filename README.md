@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c45fd515-9955-4a02-9f22-80f393097d79)### Hi there 👋
+### Hi there 👋
 
 <img src="https://profile-counter.glitch.me/gonzalocoop/count.svg">
 
