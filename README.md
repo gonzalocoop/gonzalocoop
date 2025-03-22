@@ -83,7 +83,7 @@
 <br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gonzalocoop&show_icons=true&theme=dark&locale=en&layout=compact" alt="gonzalocoop" /></p>
+<p><img align="left" src="d" alt="gonzalocoop" /></p>
 
 <br><br><br><br><br><br><br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gonzalocoop&show_icons=true&theme=dark&locale=en" alt="gonzalocoop" /></p>
