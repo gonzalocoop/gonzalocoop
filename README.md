@@ -1,4 +1,4 @@
-### Hi there 👋
+![image](https://github.com/user-attachments/assets/c45fd515-9955-4a02-9f22-80f393097d79)### Hi there 👋
 
 <img src="https://profile-counter.glitch.me/gonzalocoop/count.svg">
 
@@ -86,10 +86,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gonzalocoop&show_icons=true&theme=dark&locale=en&layout=compact&cache_seconds=86400" alt="gonzalocoop" /></p>
 
 <br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gonzalocoop&show_icons=true&theme=dark&locale=en" alt="gonzalocoop" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gonzalocoop&show_icons=true&theme=dark&locale=en&layout=compact&cache_seconds=86400" alt="gonzalocoop" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gonzalocoop&theme=dark" alt="gonzalocoop" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gonzalocoop&theme=dark&layout=compact&cache_seconds=86400" alt="gonzalocoop" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 
 ## My University Projects (All Cycles)
