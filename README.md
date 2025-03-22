@@ -96,7 +96,7 @@
 
 <br><br>
 
-- :school: Mill Game `First Cycle` (https://www.upc.edu.pe).
+- :school: Mill Game `First Cycle` (https://github.com/gonzalocoop/MillGame).
 - :school: Classification of Relation `Third Cycle` (https://www.upc.edu.pe).
 - :school: Graphical Representation of Connected Components Of a Graph `Fourth Cycle` (https://www.upc.edu.pe).
 - :school: MedicVerse Web Page (Only HTML, CSS y JS) `Fourth Cycle` (https://www.upc.edu.pe).
