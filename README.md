@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Gonzalo!;I'm+a+Systems+Engineering;Student.+I'm+also+a;Passionate+Programmer)](https://git.io/typing-svg)
 
-
+### Views
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
