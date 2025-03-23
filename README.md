@@ -3,7 +3,7 @@
 <img src="https://profile-counter.glitch.me/gonzalocoop/count.svg">       
 <br>
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=+Views!)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=149414&size=30&lines=+Views!)](https://git.io/typing-svg)
 <br><br>
 
 
