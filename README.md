@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://profile-counter.glitch.me/gonzalocoop/count.svg"> view!
+<img src="https://profile-counter.glitch.me/gonzalocoop/count.svg"> 
 
 
 
