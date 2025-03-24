@@ -22,6 +22,7 @@
 - :student: I’m currently learning `Systems Engineering`.
 - :nerd_face: I am constantly exploring and learning in the `world of technology`.
 - :thinking: I’m currently open for a `pre professional practice`, this is [MY Linkedin] (www.linkedin.com/in/gonzalo-agustin-córdova-gonzales-581258323).
+- :technologist: Visit my Portfolio Website (https://gonzaloportfolio.vercel.app).
 
 
 
