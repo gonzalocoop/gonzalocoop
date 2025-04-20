@@ -20,7 +20,7 @@
 - :technologist: I love using software applications to solve everyday problems.
 - :computer: My main focus is on creating technology solutions using `C++`, `Java` and `C#`, as well as web development skills with `HTML`, `CSS` and `JavaScript` (TypeScript)
 - :student: I’m currently learning `Systems Engineering`.
-- :nerd_face: I am constantly exploring and learning in the `world of technology`.
+- :nerd_face: I'm constantly exploring and learning in the `world of technology`.
 - :thinking: I’m currently open for a `pre professional practice`, this is [MY Linkedin] (www.linkedin.com/in/gonzalo-agustin-córdova-gonzales-581258323).
 - :technologist: Visit my Portfolio Website (https://gonzaloportfolio.vercel.app).
 
